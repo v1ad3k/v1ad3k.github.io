@@ -1,0 +1,254 @@
+{
+  "corsehost": "https://6a0e.misisi-2021.workers.dev",
+  "sisi": {
+    "xdb": false
+  },
+  "online": {
+    "checkOnlineSearch": true
+  },
+  "BongaCams": {
+    "host": "https://rus.bongacams.com",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Chaturbate": {
+    "host": "https://m.chaturbate.com",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Ebalovo": {
+    "host": "https://www.ebalovo.pro",
+    "enable": false,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Eporner": {
+    "host": "https://www.eporner.com",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "HQporner": {
+    "host": "https://m.hqporner.com",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Porntrex": {
+    "host": "https://www.porntrex.com",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Spankbang": {
+    "host": "https://ru.spankbang.com",
+    "enable": false,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Xhamster": {
+    "host": "https://ru.xhamster.com",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Xnxx": {
+    "host": "https://www.xnxx.com",
+    "enable": false,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "PornHub": {
+    "host": "https://rt.pornhub.com",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Xvideos": {
+    "host": "https://www.xvideos.com",
+    "enable": false,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Kinobase": {
+    "host": "https://kinobase.org",
+    "enable": false
+  },
+  "Rezka": {
+    "host": "https://rezka.ag",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Voidboost": {
+    "host": "https://voidboost.net",
+    "enable": true
+  },
+  "Collaps": {
+    "host": "https://api.delivembd.ws",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Ashdi": {
+    "host": "https://base.ashdi.vip",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Eneyida": {
+    "host": "https://eneyida.tv",
+    "enable": false,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Kinokrad": {
+    "host": "https://kinokrad.cc",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Kinotochka": {
+    "host": "https://kinotochka.co",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Kinoprofi": {
+    "host": "https://kinoprofi.io",
+    "apihost": "https://api.kinoprofi.io",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Redheadsound": {
+    "host": "https://redheadsound.studio",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Filmix": {
+    "host": "http://filmixapp.cyou",
+    "enable": true,
+    "token": "",
+    "pro": false,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "VoKino": {
+    "enable": false,
+    "host": "http://api.vokino.tv",
+    "token": "",
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Zetflix": {
+    "host": "https://zetfix.online",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "VideoDB": {
+    "enable": true,
+    "host": "https://kinoplay.site",
+    "corseu": true,
+    "webcorshost": null
+  },
+  "CDNmovies": {
+    "host": "https://cdnmovies.nl",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "VCDN": {
+    "host": "https://89442664434375553.svetacdn.in/0HlZgU1l1mw5",
+    "enable": true,
+    "corseu": true,
+    "webcorshost": null
+  },
+  "Lostfilmhd": {
+    "host": "http://www.disneylove.ru",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "IframeVideo": {
+    "apihost": "https://iframe.video",
+    "cdnhost": "https://videoframe.space",
+    "enable": false,
+    "token": "",
+    "corseu": false,
+    "webcorshost": null
+  },
+  "HDVB": {
+    "enable": true,
+    "host": "https://apivb.info",
+    "token": "5e2fe4c70bafd9a7414c4f170ee1b192"
+  },
+  "Bazon": {
+    "enable": false,
+    "apihost": "https://bazon.cc",
+    "token": "",
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Alloha": {
+    "enable": false,
+    "apihost": "https://api.alloha.tv",
+    "linkhost": "https://torso.as.alloeclub.com",
+    "token": "",
+    "secret_token": "",
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Kodik": {
+    "enable": true,
+    "apihost": "https://kodikapi.com",
+    "linkhost": "http://kodik.biz",
+    "token": "b7cc4293ed475c4ad1fd599d114f4435",
+    "secret_token": "",
+    "localip": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "KinoPub": {
+    "enable": false,
+    "host": "https://api.service-kp.com",
+    "filetype": "hls4",
+    "token": "",
+    "corseu": false,
+    "webcorshost": null
+  },
+  "AnilibriaOnline": {
+    "host": "https://api.anilibria.tv",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "AniMedia": {
+    "host": "https://online.animedia.tv",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "AnimeGo": {
+    "host": "https://animego.org",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Animevost": {
+    "host": "https://animevost.org",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  },
+  "Animebesst": {
+    "host": "https://anime1.animebesst.org",
+    "enable": true,
+    "corseu": false,
+    "webcorshost": null
+  }
+}
